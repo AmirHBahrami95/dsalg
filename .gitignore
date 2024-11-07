@@ -7,6 +7,12 @@
 *.obj
 *.elf
 
+# vim
+*.swp
+
+# bin directory
+bin/
+
 # Linker output
 *.ilk
 *.map
